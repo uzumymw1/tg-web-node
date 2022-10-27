@@ -5,7 +5,7 @@ const cors = require('cors');
 
 
 const token = '5702547846:AAH8Iag-C6uKmmQmyUotb-KkbY_dyKxMcsQ';
-const webAppUrl = 'https://c23a-84-54-80-13.eu.ngrok.io'
+const webAppUrl = 'https://glowing-tarsier-34ed37.netlify.app'
 
 const bot = new TelegramBot(token, {polling: true});
 
